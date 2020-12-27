@@ -1,10 +1,14 @@
-Organização Hospitalar Grupo 3
+# Trabalho final da disciplina de Algoritmos e Estrutura de Dados II
+
+Éricles, Felipe e Sara
+
+Utilizamos os métodos de ordenação: pilhas,filas, listas ordenadas, listas circulares e listas duplamente encadeadas.
 
  
 
  
 
-# Éricles, Felipe e Sara
+
 
  
 
