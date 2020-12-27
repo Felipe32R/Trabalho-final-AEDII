@@ -24,7 +24,7 @@ Assim que o programa for aberto, deve-se digitar o caminho onde será criado o a
 
  
 
-Opção 1 - *Cadastrar ficha de paciente*
+# Opção 1 - *Cadastrar ficha de paciente*
 
  
 
@@ -54,7 +54,7 @@ Os casos urgentes e comuns compartilham da mesma fila, sendo assim devidamente o
 
  
 
-Opção 2 - *Exibir fila de emergência*
+# Opção 2 - *Exibir fila de emergência*
 
  
 
@@ -70,7 +70,7 @@ Caso não haja pacientes cadastrados será exibido “fila vazia”.
 
  
 
-Opção 3 - *Exibir fila de urgência/comum ordenada*
+# Opção 3 - *Exibir fila de urgência/comum ordenada*
 
  
 
@@ -88,7 +88,7 @@ Caso não haja pacientes cadastrados será exibido “fila vazia”.
 
  
 
-Opção 4 - *Atendimento de paciente em emergência*
+# Opção 4 - *Atendimento de paciente em emergência*
 
  
 
@@ -102,7 +102,7 @@ Caso não haja mais pacientes na fila, será exibido “fila vazia”.
 
  
 
-Opção 5 - *Atendimento de paciente em urgência e não urgência*
+# Opção 5 - *Atendimento de paciente em urgência e não urgência*
 
  
 
@@ -112,7 +112,7 @@ Caso não haja mais pacientes na fila, será exibido “fila vazia”.
 
 
 
-Opção 6 - *Cadastrar médicos*
+# Opção 6 - *Cadastrar médicos*
 
  
 
@@ -136,7 +136,7 @@ Os médicos são inseridos em uma Lista Circular.
 
  
 
-Opção 7 - *Mostrar médico de plantão*
+# Opção 7 - *Mostrar médico de plantão*
 
  
 
@@ -148,7 +148,7 @@ Exibe o médico que está disponível no momento.
 
  
 
-Opção 8 - *Passar plantão para o próximo médico*
+# Opção 8 - *Passar plantão para o próximo médico*
 
  
 
@@ -158,7 +158,7 @@ Realiza uma troca de turno entre os médicos, passando o plantão para o próxim
 
  
 
-Opção 9 - *Exibir relatório do dia selecionado*
+# Opção 9 - *Exibir relatório do dia selecionado*
 
  
 
@@ -170,7 +170,7 @@ Caso o usuário digite um arquivo não existente, será exibido “Arquivo não 
 
  
 
-Opção 10 – *Sair*
+# Opção 10 – *Sair*
 
  
 
